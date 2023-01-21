@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    padding-top: 250px;
+    padding-left: 550px;
+    padding-right: 550px;
+    margin: auto;
+   
+}
+
+h1,h2{
+    font-size: 50px;
+    margin-top: 15;
+    margin-bottom: 15;
+}
+
+p{
+    font-size:25px;
+    font-weight: 350;
+}
+
+button {
+    border:  1px solid black;
+    padding: 15px;
+    color: black;
+    font-weight: bold;
+    width: 200px;
+    border-radius: 5px;
+
+}
+.bor{
+    background-color: gold;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 5px;
+    padding:   25px;
+    margin: auto;
+}

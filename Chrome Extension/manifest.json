@@ -1,0 +1,8 @@
+{
+    "manifest_version":3,
+    "version":"1.2",
+    "name": "Tracker",
+    "action":{
+        "defualt_popup":"index.html"
+    }
+}

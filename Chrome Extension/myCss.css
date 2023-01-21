@@ -1,0 +1,30 @@
+body{
+    margin: 10%;
+    padding: 25px;
+    min-width: 250px;
+}
+input{
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+    border: 2px solid black;
+}
+button{
+
+    color: black;
+    padding: 10 50 10 50;
+    margin-top: 25px;
+    margin-left: 47%;
+    border: 1px solid black;
+
+}
+ul{
+    margin-top: 15px;
+
+}
+li{
+    margin-top: 10px;
+}
+a{
+    color: red;
+}
